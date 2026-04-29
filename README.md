@@ -70,8 +70,8 @@ docs/
 
 This workflow is designed for a small team with overlapping responsibilities.
 
-- **Photographer** — image capture, processing, and technical quality control
-- **Preparators / Catalogers** — object handling, mounting, measurements, and metadata
+- **Photographer**: image capture, processing, and technical quality control
+- **Preparators / Catalogers**: object handling, mounting, measurements, and metadata
 
 In practice, the Archive Assistant may perform multiple roles, including preparation, cataloging, quality control, and coordination. The workflow is structured to support this flexibility while maintaining consistency across all stages.
 
@@ -114,15 +114,23 @@ Then proceed through each stage of the workflow in sequence.
 ---
 
 ## Documentation Model
-
-This handbook is structured as a modular, bite-sized guide — one page per workflow stage, each self-contained and independently maintainable. This approach is inspired by the **Society of American Archivists' *Archival Accessioning Best Practices*** (ABP v.1.0.2), which uses a similar modular GitBook structure to document archival workflows for small teams [2].
-
+ 
+This handbook is structured as a modular, bite-sized guide — one page per workflow stage, each self-contained and independently maintainable. This approach is inspired by the **Society of American Archivists' *Archival Accessioning Best Practices*** (ABP v.1.0.2), which uses a similar modular GitBook structure to document archival workflows for small teams [6].
+ 
 This handbook is hosted on **GitHub** rather than GitBook, using Markdown files that render natively — providing the same modular, navigable structure with the added benefit of version control and no platform dependency.
-
+ 
 ---
-
+ 
 ## References
-
-[1] National Information Standards Organization (NISO). *A Framework of Guidance for Building Good Digital Collections*. Digital Preservation Coalition, *Digital Preservation Handbook*. https://www.niso.org/sites/default/files/2017-08/framework3.pdf
-
-[2] Society of American Archivists. (n.d.). *Archival accessioning best practices* (ABP v.1.0.2). National Best Practices for Archival Accessioning Working Group. https://accessioning.gitbook.io/archival-accessioning-best-practices
+ 
+[1] National Information Standards Organization (NISO). (2007). *A framework of guidance for building good digital collections* (3rd ed.). https://www.niso.org/sites/default/files/2017-08/framework3.pdf
+ 
+[2] Digital Preservation Coalition. (n.d.). *Digital preservation handbook* (2nd ed.). https://www.dpconline.org/handbook
+ 
+[3] Federal Agencies Digital Guidelines Initiative (FADGI). (2023). *Technical guidelines for digitizing cultural heritage materials* (3rd ed.). https://www.digitizationguidelines.gov/guidelines/FADGITechnicalGuidelinesforDigitizingCulturalHeritageMaterials_ThirdEdition_05092023.pdf
+ 
+[4] Visual Resources Association Data Standards Committee. (2007). *VRA Core 4.0*. Library of Congress. https://www.loc.gov/standards/vracore/
+ 
+[5] Costume Core. (n.d.). *Costume Core: Data standard for fashion and costume collections*. https://costumecore.org/
+ 
+[6] Society of American Archivists. (n.d.). *Archival accessioning best practices* (ABP v.1.0.2). National Best Practices for Archival Accessioning Working Group. https://accessioning.gitbook.io/archival-accessioning-best-practices
