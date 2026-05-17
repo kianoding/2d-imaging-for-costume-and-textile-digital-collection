@@ -24,7 +24,7 @@ All items follow the same core process:
     ↓
 [Preparation]
     ↓
-[Imaging]
+[Photo Session]
     ↓
 [Post-Processing]
     ↓
@@ -49,7 +49,7 @@ docs/
 │   ├── Prep_Rack.md
 │   └── Mounting.md
 │
-├── 03_Imaging/
+├── 03_Photo_Session/
 │   ├── Photography.md
 │   └── Intake_and_Verification.md
 │
