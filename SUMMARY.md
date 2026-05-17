@@ -10,7 +10,7 @@
 ## 02 Preparation
 * [Prep Rack Staging](docs/02_Preparation/Prep_Rack.md)
 * [Mounting](docs/02_Preparation/Mounting.md)
-## 03 Imaging
+## 03 Photo Session
 * [Photography](docs/03_Imaging/Photography.md)
 * [Intake and Verification](docs/03_Imaging/Intake_and_Verification.md)
 ## 04 Post-Processing
