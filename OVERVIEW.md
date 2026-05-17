@@ -20,7 +20,7 @@ flowchart TD
         E[Mounting\nMannequin · Hanger · Lightbox · Flat Lay]
     end
 
-    subgraph IMAGE ["03 · IMAGING — Photographer + Preparators"]
+    subgraph IMAGE ["03 · PHOTO SESSION — Photographer + Preparators"]
         F[Image Capture\nCapture required views: F · B · S · D · L · G] --> G
         G[Intake & Verification\nUpload RAW · Check completeness · Confirm naming]
     end
@@ -77,7 +77,7 @@ flowchart LR
 |---|---|
 | **Planning** | Google Sheets (inventory + catalog records) |
 | **Preparation** | Google Sheets (session tracking), physical rack + mannequins |
-| **Imaging** | Camera (fixed + handheld), color card, lightbox, copy stand |
+| **Photo Session** | Camera (fixed + handheld), color card, lightbox, copy stand |
 | **Post-Processing** | Adobe Bridge (file management + batch rename), Adobe Photoshop (editing + export) |
 | **Output & Storage** | Controlled folder structure, Python script (label generation), Google Colab (optional batch processing) |
 
@@ -108,7 +108,7 @@ The following specifications are drawn from the *Technical Guidelines for Digiti
 ```
 2D-Imaging-Workflow-SOP/
 │
-├── README.md                          ← Entry point / handbook overview
+├── README.md                          ← Entry point/handbook overview
 ├── SUMMARY.md                         ← Navigation index
 ├── OVERVIEW.md                        ← This page — diagrams, tools, specs
 │
@@ -121,7 +121,7 @@ The following specifications are drawn from the *Technical Guidelines for Digiti
 │   │   ├── Prep_Rack.md
 │   │   └── Mounting.md
 │   │
-│   ├── 03_Imaging/
+│   ├── 03_Photo_Session/
 │   │   ├── Photography.md
 │   │   └── Intake_and_Verification.md
 │   │
